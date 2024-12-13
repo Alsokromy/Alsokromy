@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed Alsokromy
-- 👀 I’m interested in Web Developement, Mobile App Developement and finally Data Science projects!
-- 🌱 I’m currently learning ASP.NET MVC/ Data Science using Python
+- 👀 I’m interested in Web Developement using microsoft related technologies (.NET Core, Blazor ...etc), Mobile App Developement and finally Data Science projects!
+- 🌱 I’m currently learning Blazor.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
